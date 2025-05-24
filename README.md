@@ -23,7 +23,7 @@
 **Project: ARPA-E NextCar (DOE Funded, $3M)**  
 - Built a real-time lane detection pipeline using YOLOv8 (5K+ images), achieving 82% accuracy on unmarked roads.  
 - Developed a 9-point calibration algorithm for lateral offset estimation with 0.166 m average error using GPS RTK.  
-- [📄 SAE WCX 2025]([https://ieeexplore.ieee.org/abstract/document/9711816](https://saemobilus.sae.org/papers/machine-learning-based-lane-detection-lateral-offset-estimation-model-vehicle-following-applications-2025-01-8020))  
+- [📄 SAE WCX 2025](https://saemobilus.sae.org/papers/machine-learning-based-lane-detection-lateral-offset-estimation-model-vehicle-following-applications-2025-01-8020)  
 - Integrated perception modules into NVIDIA Orin, achieving 30 FPS with 32% latency reduction via CUDA.  
 - Developed stop-line detection combining stereo vision and signal recognition (8K+ images).  
 - Modeled IR image degradation under adverse weather for sensor robustness.  
