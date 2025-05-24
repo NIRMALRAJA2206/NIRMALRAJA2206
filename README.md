@@ -77,12 +77,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIRMALRAJA2206&show_icons=true&count_private=true&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - 📬 [loganirmalraja@gmail.com](mailto:loganirmalraja@gmail.com)  
