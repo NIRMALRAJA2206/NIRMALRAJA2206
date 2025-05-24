@@ -1,4 +1,4 @@
-# Hi, I'm Nirmal Raja Loganathan
+# Hi, I'm Nirmal Loganathan
 
 **AI, Computer Vision, and Robotics engineer who builds end-to-end perception-to-control pipelines that move machines safely through the world. I have shipped real-time lane keeping on NVIDIA Orin, guided a Mars rover prototype across rough terrain, and taught drones to estimate the water level in flood rescue missions, all while keeping code clean and production-ready in Python, C++, and ROS 2.**
 
@@ -23,11 +23,12 @@
 **Project: ARPA-E NextCar (DOE Funded, $3M)**  
 - Built a real-time lane detection pipeline using YOLOv8 (5K+ images), achieving 82% accuracy on unmarked roads.  
 - Developed a 9-point calibration algorithm for lateral offset estimation with 0.166 m average error using GPS RTK.  
-- [📄 SAE WCX 2025](https://saemobilus.sae.org/papers/machine-learning-based-lane-detection-lateral-offset-estimation-model-vehicle-following-applications-2025-01-8020)  
+- 📄 [Published at SAE WCX 2025](https://www.sae.org/publications/technical-papers/content/2025-01-8020/)  
 - Integrated perception modules into NVIDIA Orin, achieving 30 FPS with 32% latency reduction via CUDA.  
 - Developed stop-line detection combining stereo vision and signal recognition (8K+ images).  
 - Modeled IR image degradation under adverse weather for sensor robustness.  
 - Deployed CI/CD with Git and Docker for perception stacks.  
+
 
 ### **Lead AI Research Engineer** @ Sairam Techno Incubator Foundation, Chennai  
 **Project: Ad Astra Mars Rover (Funded $1M)**  
