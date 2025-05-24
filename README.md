@@ -1,4 +1,6 @@
-# Hi, I'm Nirmal Loganathan
+# Hi, I'm Nirmal Loganathan 
+
+- 📬 [loganirmalraja@gmail.com](mailto:loganirmalraja@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/nl2206) | 💻 [Google Scholar](https://scholar.google.com/citations?user=lCGSU10AAAAJ&hl=en) | 📱 +1 (906) 370-3565  
 
 **AI, Computer Vision, and Robotics engineer who builds end-to-end perception-to-control pipelines that move machines safely through the world. I have shipped real-time lane keeping on NVIDIA Orin, guided a Mars rover prototype across rough terrain, and taught drones to estimate the water level in flood rescue missions, all while keeping code clean and production-ready in Python, C++, and ROS 2.**
 
@@ -75,11 +77,3 @@
 - **M.S. in Data Science**, Michigan Technological University (2023–2025) — GPA: 3.8/4.0  
 - **B.E. in Electronics & Communication**, Anna University (2019–2023) — GPA: 3.74/4.0  
 
----
-
-## 📫 Contact
-
-- 📬 [loganirmalraja@gmail.com](mailto:loganirmalraja@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/nl2206)  
-- 💻 [Google Scholar](https://scholar.google.com/citations?user=lCGSU10AAAAJ&hl=en)  
-- 📱 +1 (906) 370-3565  
